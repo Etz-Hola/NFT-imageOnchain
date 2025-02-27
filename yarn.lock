@@ -576,7 +576,7 @@
     debug "^4.1.1"
     lodash.isequal "^4.5.0"
 
-"@nomicfoundation/hardhat-ignition-ethers@^0.15.0":
+"@nomicfoundation/hardhat-ignition-ethers@^0.15.0", "@nomicfoundation/hardhat-ignition-ethers@^0.15.10":
   version "0.15.10"
   resolved "https://registry.npmjs.org/@nomicfoundation/hardhat-ignition-ethers/-/hardhat-ignition-ethers-0.15.10.tgz"
   integrity sha512-P90glRiBbR4mnMKP/LePovfUJjYT2YWJjx7118i7yxssUwcaW9wFohb4bFh+236N1tqM4q7aGx9cBvHNgve3zA==
