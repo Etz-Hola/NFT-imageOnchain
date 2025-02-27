@@ -23,6 +23,7 @@ Ensure you have the following installed:
 - Hardhat
 - Metamask Wallet
 
+
 ### Installation
 Clone the repository and install dependencies:
 ```sh
