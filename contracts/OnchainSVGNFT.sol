@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/utils/Base64.sol";
 
 contract OnchainSVGNFT is ERC721URIStorage {
-
+ 
     uint256 private tokenCounter;
 
     // This runs when we first create the contract
